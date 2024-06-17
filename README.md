@@ -1,2 +1,2 @@
 ## Questions
-<img src='Questions.png' width='25rem' title='Questions - سوالات'>
+<img src='Questions.png' width='400px' title='Questions - سوالات'>
