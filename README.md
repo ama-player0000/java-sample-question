@@ -9,6 +9,7 @@ space Learn :+1: sample example java code :shipit:
 graph TD;
     A-->B;
     A-->C;
+    A-->J;
     B-->D;
     C-->D;
 ```
