@@ -7,9 +7,9 @@ space Learn :+1: sample example java code :shipit:
 
 ```mermaid
 graph TD;
-    😂-->B;
-    😂-->C;
-    😂-->J;
+    A-->B;
+    A-->C;
+    A-->J;
     B-->D;
     C-->D;
     C-->H;
